@@ -1,0 +1,7 @@
+Monica	Baluna	311CA	9.35
+Zeljko	Zurzic	311CA	8.98
+Ionut	Matei	311CA	8.67
+Razvan	Chitu	315CA	10.92
+Gigel	Gogutz	316CA	3.32
+Stefan	Popa	311CA	10.91
+
